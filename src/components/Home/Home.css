@@ -1,0 +1,13 @@
+.para{
+    text-align: center;
+    /* align-items: center; */
+    text-indent: 50px;
+    border: 2px solid rgb(109, 81, 81);
+  border-radius: 50px 10px;
+  margin: 10px;
+  margin-top: 30px;
+  background-color: rgb(231, 236, 241);
+    }
+    .para1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
